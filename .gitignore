@@ -1,0 +1,20 @@
+# Gradle / Android build
+.gradle/
+build/
+**/build/
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# Firebase / Secrets
+app/google-services.json
+secrets.properties
+*.jks
+*.keystore
+keystore.properties
+
+# OS junk
+.DS_Store
+Thumbs.db

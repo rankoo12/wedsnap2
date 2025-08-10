@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.wedsnap20",
+      "sha256_cert_fingerprints": [
+        "b9:67:b1:fa:f5:a6:ad:62:0f:e8:74:91:00:8e:be:c8:3d:e8:65:c3"
+      ]
+    }
+  }
+]
